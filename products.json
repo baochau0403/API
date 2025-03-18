@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Hoàng tử bé",
+      "image": "https://cdn1.fahasa.com/media/catalog/product/b/i/bia-1_6_6.jpg",
+      "price": 60000,
+      "stock": 1000,
+      "rating": 5,
+      "description": "Hoàng tử bé được xuất bản lần đầu năm 1943 của nhà văn, phi công người Pháp Antoine de Saint-Exupéry.",
+      "isFavorite": false
+    },
+    {
+      "id": "2",
+      "name": "Đắc nhân tâm",
+      "image": "https://cdn1.fahasa.com/media/catalog/product/d/n/dntttttuntitled.jpg",
+      "price": 70000,
+      "stock": 600,
+      "rating": 4,
+      "description": "Đắc nhân tâm của Dale Carnegie là quyển sách của mọi thời đại và một hiện tượng đáng kinh ngạc trong ngành xuất bản Hoa Kỳ.",
+      "isFavorite": false
+    },
+    {
+      "id": "3",
+      "name": "Cây cam ngọt của tôi",
+      "image": "https://example.com/book1.jpg",
+      "price": 75000,
+      "stock": 1000,
+      "rating": 4,
+      "description": "Tiểu thuyết kinh điển về tuổi thơ của José Mauro de Vasconcelos.",
+      "isFavorite": false
+    }
+  ]
+}
