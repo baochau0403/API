@@ -1,34 +1,83 @@
-{
-  "products": [
+[
     {
-      "id": "1",
-      "name": "Hoàng tử bé",
-      "image": "https://cdn1.fahasa.com/media/catalog/product/b/i/bia-1_6_6.jpg",
-      "price": 60000,
-      "stock": 1000,
-      "rating": 5,
-      "description": "Hoàng tử bé được xuất bản lần đầu năm 1943 của nhà văn, phi công người Pháp Antoine de Saint-Exupéry.",
-      "isFavorite": false
+        "name": "Hoàng tử bé",
+        "image": "R.drawable.book",
+        "price": 60000,
+        "quantity": 1000,
+        "rating": 5,
+        "description": "Hoàng tử bé được xuất bản lần đầu năm 1943 của nhà văn, phi công người Pháp Antoine de Saint-exupéry là một trong những cuốn tiểu thuyết kinh điển nổi tiếng nhất mọi thời đại.",
+        "isFavorite": false
     },
     {
-      "id": "2",
-      "name": "Đắc nhân tâm",
-      "image": "https://cdn1.fahasa.com/media/catalog/product/d/n/dntttttuntitled.jpg",
-      "price": 70000,
-      "stock": 600,
-      "rating": 4,
-      "description": "Đắc nhân tâm của Dale Carnegie là quyển sách của mọi thời đại và một hiện tượng đáng kinh ngạc trong ngành xuất bản Hoa Kỳ.",
-      "isFavorite": false
+        "name": "Đắc nhân tâm",
+        "image": "R.drawable.sample_product",
+        "price": 70000,
+        "quantity": 600,
+        "rating": 4,
+        "description": "Đắc nhân tâm của Dale Carnegie là quyển sách của mọi thời đại và một hiện tượng đáng kinh ngạc trong ngành xuất bản Hoa Kỳ.",
+        "isFavorite": false
     },
     {
-      "id": "3",
-      "name": "Cây cam ngọt của tôi",
-      "image": "https://example.com/book1.jpg",
-      "price": 75000,
-      "stock": 1000,
-      "rating": 4,
-      "description": "Tiểu thuyết kinh điển về tuổi thơ của José Mauro de Vasconcelos.",
-      "isFavorite": false
+        "name": "Cây cam ngọt",
+        "image": "R.drawable.book1",
+        "price": 75000,
+        "quantity": 1000,
+        "rating": 4,
+        "description": "Tiểu thuyết kinh điển về tuổi thơ của José Mauro de Vasconcelos.",
+        "isFavorite": false
+    },
+    {
+        "name": "Trường Ca Achilles",
+        "image": "R.drawable.book3",
+        "price": 115000,
+        "quantity": 700,
+        "rating": 4,
+        "description": "Lấy cảm hứng từ sử thi Iliad, Madeline Miller đã tái hiện một câu chuyện tình yêu đầy say đắm nhưng cũng nhuốm màu bi kịch giữa hai người anh hùng Hy Lạp trong tác phẩm đầu tay của mình – Trường Ca Achilles.",
+        "isFavorite": false
+    },
+    {
+        "name": "Đồi Thỏ",
+        "image": "R.drawable.book4",
+        "price": 115000,
+        "quantity": 700,
+        "rating": 4,
+        "description": "Lấy cảm hứng từ sử thi Iliad, Madeline Miller đã tái hiện một câu chuyện tình yêu đầy say đắm nhưng cũng nhuốm màu bi kịch giữa hai người anh hùng Hy Lạp trong tác phẩm đầu tay của mình – Trường Ca Achilles.",
+        "isFavorite": false
+    },
+    {
+        "name": "Bản Du Ca Cuối Cùng",
+        "image": "R.drawable.book5",
+        "price": 70000,
+        "quantity": 700,
+        "rating": 4,
+        "description": "Số lượng trang ngồn ngộn như thế cho phép mở ra nhiều cuộc phiêu lưu nối nhau trong các chương sách được chia nhỏ trong bốn phần: Hành trình, Trên ngọn đồi Watership, Efrafa và Thủ lĩnh Cây Phỉ.",
+        "isFavorite": false
+    },
+    {
+        "name": "Bên Rìa Thời Gian",
+        "image": "R.drawable.book6",
+        "price": 90000,
+        "quantity": 700,
+        "rating": 4,
+        "description": "Mô tả sản phẩm",
+        "isFavorite": false
+    },
+    {
+        "name": "Khe Nứt Thời Gian",
+        "image": "R.drawable.book7",
+        "price": 150000,
+        "quantity": 700,
+        "rating": 4,
+        "description": "Mô tả sản phẩm",
+        "isFavorite": false
+    },
+    {
+        "name": "Hoa Trên Mộ Algernon",
+        "image": "R.drawable.book8",
+        "price": 115000,
+        "quantity": 700,
+        "rating": 4,
+        "description": "Mô tả sản phẩm",
+        "isFavorite": false
     }
-  ]
-}
+]
